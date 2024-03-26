@@ -2,13 +2,13 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="上海",高清导视频道
+#EXTINF:-1 tvg-id="1000" tvg-name="高清导视频道" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="上海",高清导视频道
 http://10.0.0.1:8888/udp/239.45.3.240:5140
-#EXTINF:-1 tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="上海",东方卫视HD
+#EXTINF:-1 tvg-id="1001" tvg-name="东方卫视HD" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="上海",东方卫视HD
 http://10.0.0.1:8888/udp/239.45.3.146:5140
-#EXTINF:-1 tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="上海",五星体育HD
+#EXTINF:-1 tvg-id="1002" tvg-name="五星体育HD" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="上海",五星体育HD
 http://10.0.0.1:8888/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="上海",新闻综合HD
+#EXTINF:-1 tvg-id="1003" tvg-name="新闻综合HD" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="上海",新闻综合HD
 http://10.0.0.1:8888/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="上海",生活时尚HD
 http://10.0.0.1:8888/udp/239.45.3.132:5140

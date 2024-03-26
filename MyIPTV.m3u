@@ -76,7 +76,7 @@ http://10.0.0.1:8888/udp/239.45.3.10:5140
 http://10.0.0.1:8888/udp/239.45.0.19:5140
 #EXTINF:-1 tvg-id="1036" tvg-name="CCTV-14HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-14.png" group-title="CCTV",CCTV-14HD
 http://10.0.0.1:8888/udp/239.45.3.23:5140
-#EXTINF:-1 tvg-id="1037" tvg-name="CCTV-15HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.5png" group-title="CCTV",CCTV-15HD
+#EXTINF:-1 tvg-id="1037" tvg-name="CCTV-15HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-15.png" group-title="CCTV",CCTV-15HD
 http://10.0.0.1:8888/udp/239.45.0.20:5140
 #EXTINF:-1 tvg-id="1038" tvg-name="CCTV-16HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="CCTV",CCTV-16HD
 http://10.0.0.1:8888/udp/239.45.0.10:5140

@@ -242,3 +242,5 @@ http://10.0.0.1:8888/udp/239.45.1.53:5140
 http://10.0.0.1:8888/udp/239.45.1.253:5140
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物",家有购物
 http://10.0.0.1:8888/udp/239.45.1.43:5140
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="购物",风尚购物
+http://10.0.0.20:34400/stream/a575f9d038f1d7c9d985c35aba2730b5

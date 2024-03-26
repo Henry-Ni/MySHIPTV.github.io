@@ -144,7 +144,7 @@ http://10.0.0.1:8888/udp/239.45.1.120:5140
 http://10.0.0.1:8888/udp/239.45.1.121:5140
 #EXTINF:-1 tvg-logo="https://epg.deny.vip/ws/jiangxi.png" group-title="卫视",江西卫视HD
 http://10.0.0.1:8888/udp/239.45.1.122:5140
-#EXTINF:-1 tvg-logo="https://epg.deny.vip/ws/liaoning.png" group-title="未分类",辽宁卫视HD
+#EXTINF:-1 tvg-logo="https://epg.deny.vip/ws/liaoning.png" group-title="卫视",辽宁卫视HD
 http://10.0.0.1:8888/udp/239.45.1.123:5140
 #EXTINF:-1 tvg-logo="https://epg.deny.vip/ws/tianjin.png" group-title="卫视",天津卫视HD
 http://10.0.0.1:8888/udp/239.45.1.124:5140

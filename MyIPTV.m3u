@@ -108,7 +108,7 @@ http://10.0.0.1:8888/udp/239.45.0.51:5140
 http://10.0.0.1:8888/udp/239.45.0.52:5140
 #EXTINF:-1 tvg-id="1052" tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="CCTV",CCTV央视文化精品
 http://10.0.0.1:8888/udp/239.45.0.53:5140
-#EXTINF:-1 tvg-id="1053" tvg-name="百视通4K电影" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="百视通",百视通4K电影
+#EXTINF:-1 tvg-id="1053" tvg-name="百视通4K电影" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="百视通",百视通4K电影
 http://10.0.0.1:8888/udp/239.45.3.107:5140
 #EXTINF:-1 tvg-id="1054" tvg-name="百视通4K纪实" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="百视通",百视通4K纪实
 http://10.0.0.1:8888/udp/239.45.1.10:5140

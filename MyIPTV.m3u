@@ -196,19 +196,19 @@ http://10.0.0.1:8888/udp/239.45.1.45:5140
 http://10.0.0.1:8888/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="1096" tvg-name="茶频道HD" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="地方",茶频道HD
 http://10.0.0.1:8888/udp/239.45.3.18:5140
-#EXTINF:-1 tvg-id="1097" tvg-name="金鹰卡通HD" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="卡通",金鹰卡通HD
+#EXTINF:-1 tvg-id="1097" tvg-name="金鹰卡通HD" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="地方",金鹰卡通HD
 http://10.0.0.1:8888/udp/239.45.0.38:5140
-#EXTINF:-1 tvg-id="1098" tvg-name="卡酷少儿HD" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="卡通",卡酷少儿HD
+#EXTINF:-1 tvg-id="1098" tvg-name="卡酷少儿HD" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="地方",卡酷少儿HD
 http://10.0.0.1:8888/udp/239.45.0.8:5140
-#EXTINF:-1 tvg-id="1099" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="卡通",嘉佳卡通
+#EXTINF:-1 tvg-id="1099" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="地方",嘉佳卡通
 http://10.0.0.1:8888/udp/239.45.1.48:5140
-#EXTINF:-1 tvg-id="1100" tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="理财",家庭理财
+#EXTINF:-1 tvg-id="1100" tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="地方",家庭理财
 http://10.0.0.1:8888/udp/239.45.0.14:5140
-#EXTINF:-1 tvg-id="1101" tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="理财",财富天下
+#EXTINF:-1 tvg-id="1101" tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="地方",财富天下
 http://10.0.0.1:8888/udp/239.45.0.7:5140
-#EXTINF:-1 tvg-id="1102" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="CCTV",CGTN
+#EXTINF:-1 tvg-id="1102" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
 http://10.0.0.1:8888/udp/239.45.1.194:5140
-#EXTINF:-1 tvg-id="1103" tvg-name="中国气象" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="CCTV",中国气象
+#EXTINF:-1 tvg-id="1103" tvg-name="中国气象" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="央视",中国气象
 http://10.0.0.1:8888/udp/239.45.1.47:5140
 #EXTINF:-1 tvg-id="1104" tvg-name="金色学堂HD" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="教育",金色学堂HD
 http://10.0.0.1:8888/udp/239.45.0.9:5140

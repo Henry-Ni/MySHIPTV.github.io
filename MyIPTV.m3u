@@ -106,7 +106,7 @@ http://10.0.0.1:8888/udp/239.45.0.50:5140
 http://10.0.0.1:8888/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-id="1051" tvg-name="CCTV风云音乐" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYYY.png" group-title="央视",CCTV风云音乐
 http://10.0.0.1:8888/udp/239.45.0.52:5140
-#EXTINF:-1 tvg-id="1052" tvg-name="CCTV央视文化精品" tvg-logo="https://epg.deny.vip/cctv/CCTV-YSWHJP.png" group-title="CCTV",CCTV央视文化精品
+#EXTINF:-1 tvg-id="1052" tvg-name="CCTV央视文化精品" tvg-logo="https://epg.deny.vip/cctv/CCTV-YSWHJP.png" group-title="央视",CCTV央视文化精品
 http://10.0.0.1:8888/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-id="1053" tvg-name="百视通4K电影" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="百视通",百视通4K电影
 http://10.0.0.1:8888/udp/239.45.3.107:5140

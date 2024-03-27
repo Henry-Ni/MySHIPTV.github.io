@@ -210,15 +210,15 @@ http://10.0.0.1:8888/udp/239.45.0.7:5140
 http://10.0.0.1:8888/udp/239.45.1.194:5140
 #EXTINF:-1 tvg-id="1103" tvg-name="中国气象" tvg-logo="https://epg.deny.vip/df/中国天气.png" group-title="央视",中国气象
 http://10.0.0.1:8888/udp/239.45.1.47:5140
-#EXTINF:-1 tvg-id="1104" tvg-name="金色学堂HD" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="教育",金色学堂HD
+#EXTINF:-1 tvg-id="1104" tvg-name="金色学堂HD" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="地方",金色学堂HD
 http://10.0.0.1:8888/udp/239.45.0.9:5140
-#EXTINF:-1 tvg-id="1105" tvg-name="CETV1HD" tvg-logo="https://epg.deny.vip/cctv/CETV-1.png" group-title="教育",CETV1HD
+#EXTINF:-1 tvg-id="1105" tvg-name="CETV1HD" tvg-logo="https://epg.deny.vip/cctv/CETV-1.png" group-title="地方",CETV1HD
 http://10.0.0.1:8888/udp/239.45.1.125:5140
-#EXTINF:-1 tvg-id="1106" tvg-name="CETV2HD" tvg-logo="https://epg.deny.vip/cctv/CETV-2.png" group-title="教育",CETV2HD
+#EXTINF:-1 tvg-id="1106" tvg-name="CETV2HD" tvg-logo="https://epg.deny.vip/cctv/CETV-2.png" group-title="地方",CETV2HD
 http://10.0.0.1:8888/udp/239.45.1.52:5140
-#EXTINF:-1 tvg-id="1107" tvg-name="CETV4HD" tvg-logo="https://epg.deny.vip/cctv/CETV-4.png" group-title="教育",CETV4HD
+#EXTINF:-1 tvg-id="1107" tvg-name="CETV4HD" tvg-logo="https://epg.deny.vip/cctv/CETV-4.png" group-title="地方",CETV4HD
 http://10.0.0.1:8888/udp/239.45.0.21:5140
-#EXTINF:-1 tvg-id="1108" tvg-name="CETV早期教育" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="教育",CETV早期教育
+#EXTINF:-1 tvg-id="1108" tvg-name="CETV早期教育" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="地方",CETV早期教育
 http://10.0.0.1:8888/udp/239.45.0.54:5140
 #EXTINF:-1 tvg-id="1109" tvg-name="东方购物-1HD" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物",东方购物-1HD
 http://10.0.0.1:8888/udp/239.45.3.74:5140

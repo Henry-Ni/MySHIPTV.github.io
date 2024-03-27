@@ -60,7 +60,7 @@ http://10.0.0.1:8888/udp/239.45.1.69:5140
 http://10.0.0.1:8888/udp/239.45.0.34:5140
 #EXTINF:-1 tvg-id="1028" tvg-name="CCTV-6HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-6.png" group-title="央视",CCTV-6HD
 http://10.0.0.1:8888/udp/239.45.1.70:5140
-#EXTINF:-1 tvg-id="1029" tvg-name="CCTV-7HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="CCTV",CCTV-7HD
+#EXTINF:-1 tvg-id="1029" tvg-name="CCTV-7HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-7.png" group-title="央视",CCTV-7HD
 http://10.0.0.1:8888/udp/239.45.3.56:5140
 #EXTINF:-1 tvg-id="1030" tvg-name="CCTV-8HD" tvg-logo="https://epg.deny.vip/cctv/CCTV-8.png" group-title="央视",CCTV-8HD
 http://10.0.0.1:8888/udp/239.45.1.71:5140

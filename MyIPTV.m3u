@@ -110,9 +110,9 @@ http://10.0.0.1:8888/udp/239.45.0.52:5140
 http://10.0.0.1:8888/udp/239.45.0.53:5140
 #EXTINF:-1 tvg-id="1053" tvg-name="百视通4K电影" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="百视通",百视通4K电影
 http://10.0.0.1:8888/udp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="1054" tvg-name="百视通4K纪实" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="百视通",百视通4K纪实
+#EXTINF:-1 tvg-id="1054" tvg-name="百视通4K纪实" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="百视通",百视通4K纪实
 http://10.0.0.1:8888/udp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="1055" tvg-name="百视通4K儿童" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",百视通4K儿童
+#EXTINF:-1 tvg-id="1055" tvg-name="百视通4K儿童" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="百视通",百视通4K儿童
 http://10.0.0.1:8888/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="1056" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC",CHC家庭影院
 http://10.0.0.1:8888/udp/239.45.0.40:5140

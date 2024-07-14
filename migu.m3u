@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="540p" tvg-logo="https://live.fanmingming.com/tv/540p.png",540p
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/50/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="720p" tvg-logo="https://live.fanmingming.com/tv/720p.png",720p
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/51/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="1080p" tvg-logo="https://live.fanmingming.com/tv/1080p.png",1080p
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/57/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="2k50帧" tvg-logo="https://live.fanmingming.com/tv/2k50帧.png",2k50帧
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/211412/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="4k50帧" tvg-logo="https://live.fanmingming.com/tv/4k50帧.png",4k50帧
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/211402/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="540PH265" tvg-logo="https://live.fanmingming.com/tv/540PH265.png",540PH265
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/53/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="720pH265" tvg-logo="https://live.fanmingming.com/tv/720pH265.png",720pH265
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/54/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="1080pH265" tvg-logo="https://live.fanmingming.com/tv/1080pH265.png",1080pH265
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/55/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="2k50帧H265" tvg-logo="https://live.fanmingming.com/tv/2k50帧H265.png",2k50帧H265
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/221413/20240605/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-name="4k50帧H265" tvg-logo="https://live.fanmingming.com/tv/4k50帧H265.png",4k50帧H265
+http://hlsbkmgsplive.miguvideo.com/migu/sports/4kvivid03/221401/20240605/index.m3u8?&encrypt=

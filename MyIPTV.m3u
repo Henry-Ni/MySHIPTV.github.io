@@ -102,15 +102,15 @@ http://10.0.0.1:8888/udp/239.45.0.51:5140
 http://10.0.0.1:8888/udp/239.45.0.52:5140
 #EXTINF:-1 tvg-id="1049" tvg-name="CCTV央视文化精品" tvg-logo="https://epg.deny.vip/cctv/CCTV-YSWHJP.png" group-title="央视",CCTV央视文化精品
 http://10.0.0.1:8888/udp/239.45.0.53:5140
-#EXTINF:-1 tvg-id="1050" tvg-name="BesTV 4K儿童" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="BesTV",百视通4K儿童
+#EXTINF:-1 tvg-id="1050" tvg-name="BesTV 4K儿童" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png",BesTV 4K儿童
 http://10.0.0.1:8888/udp/239.45.1.1:5140
-#EXTINF:-1 tvg-id="1051" tvg-name="BesTV 4K记录" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="BesTV",百视通4K纪实
+#EXTINF:-1 tvg-id="1051" tvg-name="BesTV 4K记录" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png",BesTV 4K记录
 http://10.0.0.1:8888/udp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="1052" tvg-name="BesTV 4K人文" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="BesTV",百视通4K电影
+#EXTINF:-1 tvg-id="1052" tvg-name="BesTV 4K人文" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png",BesTV 4K人文
 http://10.0.0.1:8888/udp/239.45.1.29:5140
-#EXTINF:-1 tvg-id="1053" tvg-name="BesTV 4K电影" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="BesTV",百视通4K电影
+#EXTINF:-1 tvg-id="1053" tvg-name="BesTV 4K电影" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png",BesTV 4K电影
 http://10.0.0.1:8888/udp/239.45.3.107:5140
-#EXTINF:-1 tvg-id="1054" tvg-name="BesTV 4K测试" tvg-logo="https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV.png" group-title="BesTV",百视通4K电影
+#EXTINF:-1 tvg-id="1054" tvg-name="BesTV 4K测试" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png",BesTV 4K测试
 http://10.0.0.1:8888/udp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="1055" tvg-name="CHC高清电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC高清电影
 http://10.0.0.1:8888/udp/239.45.0.42:5140

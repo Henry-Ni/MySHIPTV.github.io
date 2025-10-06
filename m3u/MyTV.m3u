@@ -330,6 +330,4 @@ rtmp://live-ws.kksmg.com/live/sdi5
 rtmp://live-ws.kksmg.com/live/sdi6
 #EXTINF:-1 tvg-id="1161" tvg-name="直播上海北外灘-HD" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png" group-title="特色",直播上海北外灘-HD
 rtmp://live-ws.kksmg.com/live/webcam1
-#EXTINF:-1 tvg-id="1162" tvg-name="直播上海白渡橋-HD" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png" group-title="特色",直播上海白渡橋-HD
-rtmp://live-ws.kksmg.com/live/webcam2
-test
+

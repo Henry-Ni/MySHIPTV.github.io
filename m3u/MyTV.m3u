@@ -1,4 +1,3 @@
-
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml"
 #EXTINF:-1 tvg-id="1001" tvg-name="高清导视频道" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/besTV1.png" group-title="上海",高清导视频道
 http://10.0.0.1:8888/udp/239.45.3.240:5140
@@ -330,4 +329,3 @@ rtmp://live-ws.kksmg.com/live/sdi5
 rtmp://live-ws.kksmg.com/live/sdi6
 #EXTINF:-1 tvg-id="1161" tvg-name="直播上海北外灘-HD" tvg-logo="https://hub.gitmirror.com/https://github.com/Henry-Ni/MySHIPTV.github.io/blob/main/BesTV2.png" group-title="特色",直播上海北外灘-HD
 rtmp://live-ws.kksmg.com/live/webcam1
-
